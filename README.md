@@ -5,7 +5,7 @@
   <h3>My projects:</h3>
       <table>
          <tr>
-            <td> <img src="https://github.com/AnaKud/Nook-s-Bank/blob/main/Attachments/NBGif.gif?raw=true" width="150" > </td>
+            <td > <img src="https://github.com/SaiyanSerguchev/SaiyanSerguchev/blob/main/Attachments/YktLearning.png?raw=true" width="150" > </td>
             <td> <h4>1.YktLearning (2021)</h4> 
                <b>Description: </b> Website for learning yakutian language <br>
                <b>Stack: </b> Django, Python, HTML, MySQL, CSS, JS <br>
@@ -13,7 +13,7 @@
             </td>
          </tr>
          <tr>
-            <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/CNJokes.gif?raw=true" width="150" > </td>
+            <td> <img src="https://github.com/SaiyanSerguchev/SaiyanSerguchev/blob/main/Attachments/MeteoTomsk.png?raw=true" width="150" > </td>
             <td> <h4>2. MeteoTomsk (2019)</h4>
                <b>Description: </b> Website for visualising temperature data <br>
                <b>Stack: </b>Django, Python, Pandas, HTML, CSS<br>
