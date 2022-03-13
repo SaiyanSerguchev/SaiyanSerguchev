@@ -21,5 +21,6 @@
             </td>
          </tr>
       </table>
+    <br><b>My email</b>: beckepok@mail.ru
      </body>
 </html>
